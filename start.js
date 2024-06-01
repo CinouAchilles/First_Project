@@ -1,0 +1,1 @@
+window.alert("Just Dumb Test");
